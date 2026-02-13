@@ -202,6 +202,12 @@ Este proyecto cumple los objetivos del reto:
 ✔ Cache
 ✔ Mensajería
 
+
+diagramas:
+https://github.com/Reynaldo-Developer/event-platform-front/tree/master/docs
+-Diagrama backend
+-diagrama despliegue.
+
 Autor
 
 Reynaldo Yovera
