@@ -66,7 +66,7 @@ Cómo ejecutar el proyecto
 
 Docker Desktop
 Node.js 18+
-.NET SDK 98+
+.NET SDK 8+
 2. Levantar infraestructura
 
 Desde la raíz del repo:
